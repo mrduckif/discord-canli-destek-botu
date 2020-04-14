@@ -1,8 +1,8 @@
 {
-  "token": "TOKEN GİR",
-  "mailGuildId": "SUNUCU İD",
-  "mainGuildId": "SUNUCU İD",
-  "logChannelId": "LOG KANAL İD",
+  "token": "Njk5Njg3ODA4NDEwOTc2MzA2.XpYBGw.lTEi6ABOpF7TZW-CRu3Np3igSW4",
+  "mailGuildId": "#destek",
+  "mainGuildId": "#destek",
+  "logChannelId": "#destek",
 
   "status": "Destek almak için özelden mesaj at!",
   "responseMessage": "Mesajınız İletildi Lütfen Bekleyiniz."
